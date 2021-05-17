@@ -1,0 +1,121 @@
+
+citeseeradjTrue
+Validation F1:0.724
+Average batch time:0.039475998878479
+citeseeradjTrue
+Validation F1:0.728
+Average batch time:0.0387338137626648
+citeseeradjTrue
+Validation F1:0.7299999999999999
+Average batch time:0.038754787445068356
+citeseeradjTrue
+Validation F1:0.734
+Average batch time:0.038818922042846676
+citeseeradjTrue
+Validation F1:0.738
+Average batch time:0.03870647430419922
+citeseeradjTrue
+Validation F1:0.724
+Average batch time:0.039059674739837645
+citeseeradjTrue
+Validation F1:0.728
+Average batch time:0.03883500814437866
+citeseeradjTrue
+Validation F1:0.712
+Average batch time:0.03877986192703247
+citeseeradjTrue
+Validation F1:0.722
+Average batch time:0.03905925750732422
+citeseeradjTrue
+Validation F1:0.724
+Average batch time:0.038500235080718995
+citeseeradjFalse
+Validation F1:0.746
+Average batch time:0.06537787675857544
+citeseeradjFalse
+Validation F1:0.75
+Average batch time:0.0644981598854065
+citeseeradjFalse
+Validation F1:0.744
+Average batch time:0.064038827419281
+citeseeradjFalse
+Validation F1:0.7419999999999999
+Average batch time:0.06756510972976684
+citeseeradjFalse
+Validation F1:0.744
+Average batch time:0.0637294101715088
+citeseeradjFalse
+Validation F1:0.746
+Average batch time:0.06600347518920899
+citeseeradjFalse
+Validation F1:0.7579999999999999
+Average batch time:0.06528626203536987
+citeseeradjFalse
+Validation F1:0.7419999999999999
+Average batch time:0.0674731969833374
+citeseeradjFalse
+Validation F1:0.752
+Average batch time:0.06449727773666382
+citeseeradjFalse
+Validation F1:0.7419999999999999
+Average batch time:0.06387749433517456
+citeseerwaveTrue
+Validation F1:0.7160000000000001
+Average batch time:0.029682481288909913
+citeseerwaveTrue
+Validation F1:0.724
+Average batch time:0.029612183570861816
+citeseerwaveTrue
+Validation F1:0.72
+Average batch time:0.029972813129425048
+citeseerwaveTrue
+Validation F1:0.714
+Average batch time:0.03001922369003296
+citeseerwaveTrue
+Validation F1:0.724
+Average batch time:0.02996772527694702
+citeseerwaveTrue
+Validation F1:0.714
+Average batch time:0.03025571823120117
+citeseerwaveTrue
+Validation F1:0.72
+Average batch time:0.029928946495056154
+citeseerwaveTrue
+Validation F1:0.7160000000000001
+Average batch time:0.029734387397766113
+citeseerwaveTrue
+Validation F1:0.722
+Average batch time:0.02972672462463379
+citeseerwaveTrue
+Validation F1:0.722
+Average batch time:0.029667837619781492
+citeseerwaveFalse
+Validation F1:0.7419999999999999
+Average batch time:0.05764074802398682
+citeseerwaveFalse
+Validation F1:0.74
+Average batch time:0.05902192831039429
+citeseerwaveFalse
+Validation F1:0.746
+Average batch time:0.05756081342697143
+citeseerwaveFalse
+Validation F1:0.736
+Average batch time:0.056937274932861326
+citeseerwaveFalse
+Validation F1:0.746
+Average batch time:0.05813867330551147
+citeseerwaveFalse
+Validation F1:0.7419999999999999
+Average batch time:0.05731611251831055
+citeseerwaveFalse
+Validation F1:0.74
+Average batch time:0.058708064556121826
+citeseerwaveFalse
+Validation F1:0.736
+Average batch time:0.058263466358184815
+citeseerwaveFalse
+Validation F1:0.738
+Average batch time:0.05616481304168701
+citeseerwaveFalse
+Validation F1:0.732
+Average batch time:0.05656288862228394

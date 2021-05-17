@@ -1,0 +1,16 @@
+
+coraadjTrue:0.8398000000000001
+pubmedadjTrue:0.8155999999999999
+citeseeradjTrue:0.7263999999999999
+coraadjFalse:0.8775999999999999
+pubmedadjFalse:0.8632
+citeseeradjFalse:0.7465999999999999
+corawaveTrue:0.867
+pubmedwaveTrue:0.8291999999999999
+citeseerwaveTrue:0.7191999999999998
+corawaveFalse:0.877
+pubmedwaveFalse:0.8814
+citeseerwaveFalse:0.7397999999999999
+
+corawaveTrue:0.868
+corawaveFalse:0.8788
